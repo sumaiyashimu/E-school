@@ -1,0 +1,101 @@
+
+.body{
+   font-family: 'Roboto', sans-serif;
+}
+.container{
+   margin-bottom: 70px;
+}
+.eSchool-logo img{
+  
+   width: 118.07px;
+   height: 29px;
+  
+    
+}
+h6{
+   color: #FD511A;
+}
+span{
+   color: #21B573;
+}
+h1{
+   font-weight: bold;
+}
+
+
+.signin-link{
+   text-decoration: none;
+  background-color: #21B573;;
+   border-radius: 33px;
+   color: white;
+   font-weight: 700;
+     
+}
+.button-link{
+   border: none;
+   background-color: #21B573;
+   border-radius: 33px;
+   padding: 10px 20px;
+   color: #FFFFFF;
+}
+.top-img{
+  
+   background:  #F0FFF0;;
+}
+
+.img-group img{
+   width: 70px;
+   height: 70px;
+   
+}
+
+.img-row{
+   height: 280px;
+   width: 100%;
+   
+}
+.img-group{
+
+   border-radius: 6px;
+   box-shadow: 5px 5px 10px lightgray;
+   
+
+}
+
+
+ .img-calender img { 
+    margin-left: 20px;
+    width: 7%;
+ }
+ .img-people img{
+    width: 20px;
+ }
+
+
+ .button-linkc{
+   border: none;
+   background-color: #21B573;
+   padding: 5px 20px;
+   border-radius: 33px;
+   color: #FFFFFF;
+ }
+ .img-calender p{
+    margin-left: 20px;
+
+ }
+
+ .card-course{
+
+   width: 90%;
+   height: 85%;
+   border: none;
+   padding: 10px 20px;
+   box-shadow: 10px 10px 20px lightgrey;
+ }
+ h2{
+    text-align: center;
+    margin-bottom: 30px;
+ 
+   }
+
+ 
