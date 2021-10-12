@@ -1,6 +1,7 @@
 
 .body{
    font-family: 'Roboto', sans-serif;
+   overflow: auto;
 }
 .container{
    margin-bottom: 70px;
@@ -97,5 +98,18 @@ h1{
     margin-bottom: 30px;
  
    }
+   #testimonial-id{
+      text-align: center;
+   }
 
+   .man-img img{
+      width: 30%;
+      margin-left: 150px;
+      
+   }
+
+   .testimonial{
+      height: 80%;
+      margin-top: 70px
+   }
  
